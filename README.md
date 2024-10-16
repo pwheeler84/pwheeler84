@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pwheeler84
-- 👀 I’m interested in Software Engineering and Development
+- 👀 I’m interested in Software Engineering and Development, machine learning, AI models and bot creations
 - 🌱 I’m currently learning basic python and GitHub usage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
